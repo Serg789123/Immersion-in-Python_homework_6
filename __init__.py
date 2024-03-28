@@ -1,0 +1,1 @@
+__all__ = ['modul_date_2', 'modul_numbers_2', 'modul_riddles_2', 'task_2_queen.py']
